@@ -2,7 +2,7 @@
 Prompt for the blog article: "The Bicycle for Your Mind: How AI Technology is Enhancing Learning for All Students"
 
 
-Write a blog post in less than 700 words as a global educational community influencer in the tone of a father who has a daughter with a learning disability.  You are an expert on web accessibility for educational technology applications. Use this outline:
+Write a blog post in less than 700 words as a global educational community influencer in a warm tone.  You are an expert on web accessibility for educational technology applications. Use this outline:
 
 1. ChatGPT and other generative AI technologies are here to stay, so technophobia should be avoided.  Let's stand on the shoulders on giants and use the new tools.  Let technology be the bicycle for your mind.  One of the most important skills that should be taught in schools soon is the ability to write complex, chained, and informed prompts for AI.  Perhaps we should also grade AI prompts that students use instead of the grading just the essays.
 
